@@ -17,7 +17,7 @@ Setup
 
 Clone the repository:
 ```
-git clone https://github.com/your-username/graphql-mongodb-api.git
+git clone https://github.com/Rishabh-Kumar01/graphql-mongodb-api.git
 cd graphql-mongodb-api
 ```
 
